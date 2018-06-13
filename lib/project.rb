@@ -2,7 +2,7 @@ class Project
   attr_accessor :title
 
   def initialize(name)
-    @name = name
+    @title = name
   end
 
 end
